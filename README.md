@@ -1,5 +1,6 @@
 ## About The Project
 
+![Demo screen shot](demo.png?raw=true)
 This project is intended to act as an introduction to interprocess communication mechanisms in UNIX using sockets.
 
 ### The server program:
